@@ -5,12 +5,12 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 ingredients,Ingredients
-object_transcript,Object Transcript
+object_transcript,Recipe Directions
+source,Source
+identifier,Source Identifier,
+type,Type,
+format,Format,
 cook_time,Cook Time
 cook_temp,Cook Temp
-format,Format,
-source,Source
-identifier,Source Identifier,,
-type,Type,
 rights,Rights,
-rightsstatement,Rights Statement,,true
+rightsstatement,Rights Statement,true
