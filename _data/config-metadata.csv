@@ -4,13 +4,13 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+ingredients,Ingredients
+object_transcript,Object Transcript
+cook_time,Cook Time
+cook_temp,Cook Temp
+format,Format,
 source,Source
 identifier,Source Identifier,,
 type,Type,
-format,Format,
-cook_time,Cook Time
-cook_temp,Cook Temp
-ingredients,Ingredients
-object_transcript,Object Transcript
 rights,Rights,
 rightsstatement,Rights Statement,,true
